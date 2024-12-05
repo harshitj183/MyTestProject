@@ -1,2 +1,2 @@
 # MyTestProject
-#new thing 1
+#new thing 2
